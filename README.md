@@ -1,1 +1,5 @@
-# intro_to_ML-project2---PoojaKharat
+# Internship Project-2
+
+(Machine Learning)
+
+Placement Prediction 
